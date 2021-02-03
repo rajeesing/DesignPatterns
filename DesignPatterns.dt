@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT4M19.2511003S" SolutionTotalViewTime="PT11M44.3146832S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\Rajeev\source\repos\DesignPatterns</SolutionFolder>
+  <SolutionCreattionDate>2021-01-28T10:16:37.2623617-06:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:16:30.1961513-06:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT31.7653647S" EditActiveTime="PT13.9621242S">
+      <ModifiedDate>2021-01-28T10:34:22.2877042-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\ICommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:35.4879728-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.9309626S" EditActiveTime="PT3.9803952S">
+      <ModifiedDate>2021-01-28T10:29:57.8280371-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\ICommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:48.7490754-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.4241995S" EditActiveTime="PT0.9477611S">
+      <ModifiedDate>2021-01-28T10:29:30.563959-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\IModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:23.3279266-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M26.6892523S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:16:37.2843623-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M53.7662999S" EditActiveTime="PT2M41.5673859S">
+      <ModifiedDate>2021-01-28T10:27:05.4079473-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:18:03.9756151-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.7601514S" EditActiveTime="PT8.5217072S">
+      <ModifiedDate>2021-01-28T10:18:43.375708-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Decorator\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:18:34.2640603-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M51.9529337S" EditActiveTime="PT2.9247991S">
+      <ModifiedDate>2021-01-28T10:22:42.2522964-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Factory\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:22:37.0419688-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M29.6568742S" EditActiveTime="PT1M3.6762848S">
+      <ModifiedDate>2021-01-28T10:34:07.810942-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\SalesOrder\SalesOrderCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:32:01.841261-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.3877S" EditActiveTime="PT3.6686137S">
+      <ModifiedDate>2021-01-28T10:31:48.364448-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\SalesOrder\SalesOrderModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:38.8646387-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT31.7653647S" EditActiveTime="PT13.9621242S">
+      <ModifiedDate>2021-01-28T10:34:22.2877042-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\ICommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:35.4879728-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.9309626S" EditActiveTime="PT3.9803952S">
+      <ModifiedDate>2021-01-28T10:29:57.8280371-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\ICommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:48.7490754-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.4241995S" EditActiveTime="PT0.9477611S">
+      <ModifiedDate>2021-01-28T10:29:30.563959-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\IModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:23.3279266-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M26.6892523S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:16:37.2843623-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M53.7662999S" EditActiveTime="PT2M41.5673859S">
+      <ModifiedDate>2021-01-28T10:27:05.4079473-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:18:03.9756151-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.7601514S" EditActiveTime="PT8.5217072S">
+      <ModifiedDate>2021-01-28T10:18:43.375708-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Decorator\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:18:34.2640603-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M51.9529337S" EditActiveTime="PT2.9247991S">
+      <ModifiedDate>2021-01-28T10:22:42.2522964-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Factory\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:22:37.0419688-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M29.6398767S" EditActiveTime="PT1M3.6762848S">
+      <ModifiedDate>2021-01-28T10:34:07.810942-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\SalesOrder\SalesOrderCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:32:01.841261-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.3877S" EditActiveTime="PT3.6686137S">
+      <ModifiedDate>2021-01-28T10:31:48.364448-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\SalesOrder\SalesOrderModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:38.8646387-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M29.6398767S" EditActiveTime="PT1M3.6762848S">
+      <ModifiedDate>2021-01-28T10:34:07.810942-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\SalesOrder\SalesOrderCommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:32:01.841261-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.3877S" EditActiveTime="PT3.6686137S">
+      <ModifiedDate>2021-01-28T10:31:48.364448-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\SalesOrder\SalesOrderModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:31:38.8646387-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.9309626S" EditActiveTime="PT3.9803952S">
+      <ModifiedDate>2021-01-28T10:29:57.8280371-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\ICommandInvoker.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:48.7490754-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.4241995S" EditActiveTime="PT0.9477611S">
+      <ModifiedDate>2021-01-28T10:29:30.563959-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\IModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:29:23.3279266-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT31.7653647S" EditActiveTime="PT13.9621242S">
+      <ModifiedDate>2021-01-28T10:34:22.2877042-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\ICommand.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:28:35.4879728-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M51.9529337S" EditActiveTime="PT2.9247991S">
+      <ModifiedDate>2021-01-28T10:22:42.2522964-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Factory\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:22:37.0419688-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.7601514S" EditActiveTime="PT8.5217072S">
+      <ModifiedDate>2021-01-28T10:18:43.375708-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Decorator\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:18:34.2640603-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M53.7662999S" EditActiveTime="PT2M41.5673859S">
+      <ModifiedDate>2021-01-28T10:27:05.4079473-06:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Command\Readme.txt</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:18:03.9756151-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M26.6892523S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\source\repos\DesignPatterns\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Rajeev\source\repos\DesignPatterns\DesignPatterns.csproj</ProjectName>
+      <CreatedDate>2021-01-28T10:16:37.2843623-06:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
